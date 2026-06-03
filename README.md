@@ -1,2 +1,2 @@
 # Elements-of-Algebraic-Topology-James-Munkres-Textbook-Solutions
-Do NOT assume that any of these solutions are at all correct.
+The correctness of the solutions is left as an exercise to the reader.
